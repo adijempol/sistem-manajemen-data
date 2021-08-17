@@ -1,0 +1,61 @@
+/* html,
+body {
+	overflow-y: hidden;
+} */
+
+.foto {
+	margin-top: 0%;
+}
+.nav-item {
+	margin-right: -10%;
+}
+.table {
+	margin-top: -3%;
+}
+.card-body {
+	width: 15rem;
+}
+#angka {
+	position: relative;
+	font-size: 2rem;
+}
+.sp {
+	position: absolute;
+	font-size: 1rem;
+	top: 15%;
+	left: 17%;
+}
+.judul {
+	/* font-weight: bold; */
+	font-size: 1rem;
+}
+.card-body-icon {
+	position: absolute;
+	z-index: 0;
+	top: -15px;
+	right: 5px;
+	opacity: 0.4;
+	font-size: 5.5rem;
+}
+.small {
+	margin-left: 10px;
+}
+hr {
+	height: 50px;
+}
+.pagination.pagination.justify-content-end {
+	position: fixed;
+	margin-left: 60%;
+}
+#info {
+	text-decoration: none;
+}
+
+@media (max-width: 600px) {
+	.input-group {
+		margin-top: 3%;
+	}
+	.pagination.justify-content-end {
+		justify-content: center;
+	}
+}
