@@ -1,3 +1,6 @@
+
+Jika akan menggunakan , rename folder vendorr menjadi vendor
+
 ###################
 What is CodeIgniter
 ###################
